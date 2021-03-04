@@ -1,0 +1,31 @@
+body {
+    background-color:aquamarine;
+    font-family: "Times New Roman", serif;
+    color:grey;
+    text-align: right;
+}
+.classe{
+    text-align: center;
+}
+fieldset{
+    text-align: center;
+    width:550px;
+    height: 800px;
+    background-color: beige;
+}
+img {
+    border-radius:50%;
+}
+figcaption{
+    color:black;
+    text-align: right;
+}
+p {
+    background-color:darkcyan;
+    color:white;
+}
+.imagem1{
+    margin-top: -830px;
+}
+
+
